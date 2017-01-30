@@ -10,9 +10,9 @@ make
 
 ### Usage
 ```
-Encryption (auto-generate key):   otpcrypt [input file]
-Encryption (provided key):        otpcrypt [input file] [key file]
-Decryption:                       otpcrypt [encrypted file] [key file]
+Encryption (auto-generate key):   otpcrypt e [input file]
+Encryption (provided key):        otpcrypt e [input file] [key file]
+Decryption:                       otpcrypt d [encrypted file] [key file]
 ```
 
 ### Encryption
