@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define OTP_BLOCK_SIZE 128
+#define OTP_BLOCK_SIZE 4096
 
 int main(int argc, char **argv){
 	char *key_name;
